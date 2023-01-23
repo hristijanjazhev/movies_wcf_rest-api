@@ -1,5 +1,4 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hristijan11" alt="hristijan11" /></a> </p>
 
 - 🔭 I’m currently working on **GUI Application**
 
