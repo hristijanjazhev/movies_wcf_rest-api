@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hristijan11](https://github.com/hristijan11)
 
-- 📝 I regularly write articles on [asd](asd)
+- 📝 This project is based on using RESTFull API for filtering data
 
-- 💬 Ask me about **asd**
+- 💬 Feel free to add anything into it.
 
-- 📫 How to reach me **asd**
+
 
 <p align="left">
 </p>
