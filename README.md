@@ -1,5 +1,5 @@
 <h1>Developing C# / WinForm / GUI Application using RESTFull API Services.</h1>
-- 🔭 I’m currently working on **GUI Application**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/hristijan11](https://github.com/hristijan11)
 
