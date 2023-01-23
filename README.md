@@ -18,5 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristijan11&show_icons=true&locale=en&layout=compact" alt="hristijan11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hristijan11&show_icons=true&locale=en" alt="hristijan11" /></p>
 
