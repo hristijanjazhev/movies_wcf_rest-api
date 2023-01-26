@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hristijan11](https://github.com/hristijan11)
 
-- 📝 This project is based on using RESTFull API for filtering movies.
+- 📝 This project is based on using RESTFull API for filtering movies
 
-- 💬 Feel free to add anything into it.
+- 💬 Feel free to add anything into it
 
 
 
