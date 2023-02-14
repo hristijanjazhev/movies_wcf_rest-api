@@ -1,4 +1,4 @@
-<h1>Developing C# / WinForm / GUI Application using RESTFull API Services....</h1>
+<h1>Developing C# / WinForm / GUI Application using RESTFull API Services</h1>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/hristijan11](https://github.com/hristijan11)
